@@ -10,6 +10,7 @@
         "export",
         "api"
     ],
+    "version": "1.0.0",
     "homepage": "https://github.com/jimenezmaximiliano/laravel-postman",
     "license": "MIT",
     "authors": [
