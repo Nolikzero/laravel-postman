@@ -1,9 +1,9 @@
 {
-    "name": "jimenezmaximiliano/laravel-postman",
+    "name": "nolikzero/laravel-postman",
     "type": "library",
     "description": "Export laravel API routes to postman",
     "keywords": [
-        "jimenezmaximiliano",
+        "nolikzero",
         "laravel",
         "postman",
         "github",
@@ -11,13 +11,12 @@
         "api"
     ],
     "version": "1.0.0",
-    "homepage": "https://github.com/jimenezmaximiliano/laravel-postman",
+    "homepage": "https://github.com/nolikzero/laravel-postman",
     "license": "MIT",
     "authors": [
         {
-            "name": "Maximiliano Jimenez",
-            "email": "jimenez@maximiliano.com.ar",
-            "homepage": "http://maximiliano.com.ar",
+            "name": "Nurlan Ibraev",
+            "email": "nolikfriendly@gmail.com",
             "role": "Developer"
         }
     ],
